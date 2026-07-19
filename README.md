@@ -24,4 +24,4 @@ El principal riesgo de FinTrack no se encuentra únicamente en su red, sino en l
 
 ## Autor
 
-Gabriel Emilio García Mazón · [LinkedIn](www.linkedin.com/in/gabriel-garcía-a848b1306) · [GitHub](https://github.com/Emix52Pro)
+Gabriel Emilio García Mazón · [LinkedIn](https://www.linkedin.com/in/gabriel-garcía-a848b1306) · [GitHub](https://github.com/Emix52Pro)
