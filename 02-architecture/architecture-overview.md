@@ -135,7 +135,3 @@ Los identificadores R1–R3 se conservarán en `03-risk-analysis/risk-register.m
 El orden inicial de protección debe ser: **identidad y MFA**, **mínimo privilegio en el panel administrativo**, **protección de la API**, **control de integraciones externas** y **centralización de logs con alertas básicas**. Este orden reduce primero los caminos de entrada más probables y puede ser sostenido por el equipo de TI de cuatro personas definido en el caso de negocio.
 
 ---
-
-## Siguiente documento
-
-`03-risk-analysis/threat-model.md` — actores, motivaciones, métodos y activos afectados.
